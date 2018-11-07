@@ -1,0 +1,173 @@
+INFO:gensim.models.word2vec:collecting all words and their counts
+INFO:gensim.models.word2vec:PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #10000, processed 20382 words, keeping 16239 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #20000, processed 41160 words, keeping 26680 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #30000, processed 62422 words, keeping 33692 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #40000, processed 84306 words, keeping 38376 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #50000, processed 106430 words, keeping 41628 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #60000, processed 128818 words, keeping 43968 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #70000, processed 151383 words, keeping 45698 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #80000, processed 174154 words, keeping 46925 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #90000, processed 196913 words, keeping 47848 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #100000, processed 219655 words, keeping 48583 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #110000, processed 242398 words, keeping 49188 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #120000, processed 265166 words, keeping 49664 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #130000, processed 287890 words, keeping 50070 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #140000, processed 310615 words, keeping 50382 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #150000, processed 333281 words, keeping 50689 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #160000, processed 355987 words, keeping 50959 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #170000, processed 378694 words, keeping 51212 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #180000, processed 401218 words, keeping 51439 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #190000, processed 423806 words, keeping 51666 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #200000, processed 446428 words, keeping 51857 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #210000, processed 469111 words, keeping 52070 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #220000, processed 491775 words, keeping 52248 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #230000, processed 514376 words, keeping 52432 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #240000, processed 537020 words, keeping 52622 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #250000, processed 559586 words, keeping 52797 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #260000, processed 582171 words, keeping 52996 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #270000, processed 604899 words, keeping 53178 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #280000, processed 627597 words, keeping 53376 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #290000, processed 650358 words, keeping 53540 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #300000, processed 673079 words, keeping 53723 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #310000, processed 695864 words, keeping 53936 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #320000, processed 718642 words, keeping 54170 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #330000, processed 741450 words, keeping 54383 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #340000, processed 764160 words, keeping 54617 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #350000, processed 786966 words, keeping 54821 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #360000, processed 809796 words, keeping 55009 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #370000, processed 832626 words, keeping 55230 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #380000, processed 855400 words, keeping 55432 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #390000, processed 878239 words, keeping 55672 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #400000, processed 901109 words, keeping 55913 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #410000, processed 923902 words, keeping 56147 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #420000, processed 946790 words, keeping 56366 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #430000, processed 969696 words, keeping 56607 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #440000, processed 992599 words, keeping 56857 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #450000, processed 1015579 words, keeping 57102 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #460000, processed 1036931 words, keeping 57161 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #470000, processed 1057986 words, keeping 57189 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #480000, processed 1079248 words, keeping 57233 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #490000, processed 1100659 words, keeping 57285 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #500000, processed 1122227 words, keeping 57336 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #510000, processed 1143901 words, keeping 57383 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #520000, processed 1165798 words, keeping 57427 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #530000, processed 1187702 words, keeping 57479 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #540000, processed 1209702 words, keeping 57523 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #550000, processed 1231807 words, keeping 57568 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #560000, processed 1254122 words, keeping 57622 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #570000, processed 1276372 words, keeping 57684 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #580000, processed 1298640 words, keeping 57737 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #590000, processed 1321011 words, keeping 57793 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #600000, processed 1343411 words, keeping 57847 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #610000, processed 1365899 words, keeping 57895 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #620000, processed 1388514 words, keeping 57949 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #630000, processed 1411134 words, keeping 58011 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #640000, processed 1433877 words, keeping 58080 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #650000, processed 1456554 words, keeping 58141 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #660000, processed 1479201 words, keeping 58185 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #670000, processed 1501855 words, keeping 58243 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #680000, processed 1524507 words, keeping 58290 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #690000, processed 1547255 words, keeping 58353 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #700000, processed 1570088 words, keeping 58421 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #710000, processed 1592962 words, keeping 58490 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #720000, processed 1615808 words, keeping 58557 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #730000, processed 1638668 words, keeping 58630 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #740000, processed 1661445 words, keeping 58685 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #750000, processed 1684253 words, keeping 58756 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #760000, processed 1706940 words, keeping 58827 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #770000, processed 1729802 words, keeping 58886 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #780000, processed 1752621 words, keeping 58959 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #790000, processed 1775426 words, keeping 59030 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #800000, processed 1798205 words, keeping 59107 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #810000, processed 1821045 words, keeping 59167 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #820000, processed 1843721 words, keeping 59251 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #830000, processed 1866472 words, keeping 59338 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #840000, processed 1889209 words, keeping 59411 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #850000, processed 1912099 words, keeping 59482 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #860000, processed 1934903 words, keeping 59560 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #870000, processed 1957692 words, keeping 59642 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #880000, processed 1980404 words, keeping 59708 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #890000, processed 2003218 words, keeping 59804 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #900000, processed 2025928 words, keeping 59876 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #910000, processed 2048635 words, keeping 59956 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #920000, processed 2071394 words, keeping 60036 word types
+INFO:gensim.models.word2vec:PROGRESS: at sentence #930000, processed 2094094 words, keeping 60109 word types
+INFO:gensim.models.word2vec:collected 60175 word types from a corpus of 2110284 raw words and 937147 sentences
+INFO:gensim.models.word2vec:Loading a fresh vocabulary
+INFO:gensim.models.word2vec:effective_min_count=10 retains 49904 unique words (82% of original 60175, drops 10271)
+INFO:gensim.models.word2vec:effective_min_count=10 leaves 2095107 word corpus (99% of original 2110284, drops 15177)
+INFO:gensim.models.word2vec:deleting the raw counts dictionary of 60175 items
+INFO:gensim.models.word2vec:sample=0.001 downsamples 0 most-common words
+INFO:gensim.models.word2vec:downsampling leaves estimated 2095107 word corpus (100.0% of prior 2095107)
+INFO:gensim.models.base_any2vec:estimated required memory for 49904 words and 500 dimensions: 224568000 bytes
+INFO:gensim.models.word2vec:resetting layer weights
+INFO:gensim.models.base_any2vec:training model with 2 workers on 49904 vocabulary and 500 features, using sg=0 hs=0 sample=0.001 negative=5 window=5
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 0.53% examples, 603 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 1.05% examples, 768 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 1.56% examples, 917 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 2.08% examples, 1061 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 2.58% examples, 1199 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 3.08% examples, 1341 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 3.57% examples, 1479 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 4.06% examples, 1610 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 4.54% examples, 1739 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 5.02% examples, 1862 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 5.51% examples, 1979 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 5.98% examples, 2093 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 6.46% examples, 2203 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 6.93% examples, 2309 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 7.40% examples, 2409 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 7.87% examples, 2506 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 8.34% examples, 2600 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 8.81% examples, 2688 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 9.28% examples, 2777 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 9.75% examples, 2860 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 10.22% examples, 2940 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 10.69% examples, 3018 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 11.16% examples, 3091 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 11.62% examples, 3164 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 12.09% examples, 3232 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 12.56% examples, 3297 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 13.03% examples, 3358 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 13.50% examples, 3419 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 13.97% examples, 3477 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 14.44% examples, 3531 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 14.91% examples, 3585 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 15.38% examples, 3634 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 15.85% examples, 3681 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 16.32% examples, 3728 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 16.79% examples, 3773 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 17.26% examples, 3815 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 17.73% examples, 3854 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 18.20% examples, 3894 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 18.68% examples, 3931 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 19.15% examples, 3966 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 19.62% examples, 4001 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 20.09% examples, 4031 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 20.56% examples, 4060 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 21.04% examples, 4094 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 21.51% examples, 4125 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 21.98% examples, 4152 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 22.45% examples, 4181 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 22.92% examples, 4208 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 23.39% examples, 4234 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 23.86% examples, 4261 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 24.33% examples, 4285 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 24.81% examples, 4308 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 25.28% examples, 4334 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 25.75% examples, 4357 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 26.22% examples, 4379 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 26.69% examples, 4401 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 27.17% examples, 4421 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 27.64% examples, 4441 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 28.11% examples, 4465 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 28.58% examples, 4484 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 29.05% examples, 4507 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 29.52% examples, 4527 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 29.99% examples, 4545 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 30.46% examples, 4566 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 30.93% examples, 4581 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 31.40% examples, 4599 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 31.86% examples, 4619 words/s, in_qsize 0, out_qsize 0
+INFO:gensim.models.base_any2vec:EPOCH 1 - PROGRESS: at 32.33% examples, 4638 words/s, in_qsize 0, out_qsize 0
