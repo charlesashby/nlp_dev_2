@@ -15,6 +15,10 @@ model = KeyedVectors.load_word2vec_format(
             '{}/GoogleNews-vectors-negative300.bin'.format(word2vec_dir),
             binary=True)
 
+model_fr = KeyedVectors.load_word2vec_format(
+            '{}/fr/frWac_no_postag_phrase_500_cbow_cut10.bin'.format(word2vec_dir),
+            binary=True)
+
 
 class DataReader(object):
 
